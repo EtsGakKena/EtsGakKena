@@ -1,0 +1,16 @@
+{
+  "name": "ALB BOT",
+  "version": "1.0.0",
+  "description": "Ini merupakan Progam Buatan Saya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  } 
+  ],
+  "author": "Ghibran",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.21.1"
+  }
+}
